@@ -1,0 +1,38 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Bins] (Table)
+       [dbo].[OrderLines] (Table)
+       [dbo].[Orders] (Table)
+       [dbo].[PartInventory] (Table)
+       [dbo].[Parts] (Table)
+       Foreign Key: unnamed constraint on [dbo].[OrderLines] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[OrderLines] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[PartInventory] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[PartInventory] (Foreign Key)
+       [dbo].[spBins_All] (Procedure)
+       [dbo].[spBins_Delete] (Procedure)
+       [dbo].[spBins_Insert] (Procedure)
+       [dbo].[spBins_UpdateBin] (Procedure)
+       [dbo].[spInventory_All] (Procedure)
+       [dbo].[spInventory_GetByBinID] (Procedure)
+       [dbo].[spInventory_GetByPartID] (Procedure)
+       [dbo].[spOrderLines_All] (Procedure)
+       [dbo].[spOrders_All] (Procedure)
+       [dbo].[spOrders_GetByID] (Procedure)
+       [dbo].[spParts_All] (Procedure)
+       [dbo].[spParts_Delete] (Procedure)
+       [dbo].[spParts_GetByID] (Procedure)
+       [dbo].[spParts_Insert] (Procedure)
+       [dbo].[spParts_UpdatePart] (Procedure)
+
+** Supporting actions

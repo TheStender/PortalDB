@@ -1,0 +1,5 @@
+C:\Projects\portal\Portal\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.deps.json
+C:\Projects\portal\Portal\DataLibrary\bin\Debug\netcoreapp3.1\DataLibrary.dll
+C:\Projects\portal\Portal\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.csprojAssemblyReference.cache
+C:\Projects\portal\Portal\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfoInputs.cache
+C:\Projects\portal\Portal\DataLibrary\obj\Debug\netcoreapp3.1\DataLibrary.AssemblyInfo.cs
